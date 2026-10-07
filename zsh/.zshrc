@@ -1,6 +1,6 @@
 export ZSH=/home/rashad/.oh-my-zsh/
 
-ZSH_THEME="archcraft-dwm"
+ZSH_THEME="zsh_arch"
 
 
 
